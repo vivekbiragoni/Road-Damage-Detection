@@ -1,12 +1,12 @@
 # TRINIT-TV-ML
 
-streamlit run app.py
+1. streamlit run app.py
 
-Upload any image in the interface
+2. Upload any image in the interface
 
-results are displayed
+3. results are displayed (D00: Longitudinal Crack, D10: Transverse Crack, D20: Alligator Crack, D40: Pothole)
 
-else select explore in the sidebar to analyze the data
+4. else select explore in the sidebar to analyze the data
 
-Model and ipynb file are accesed through the following link.
+5. Model and ipynb file are accesed through the following link.
 https://drive.google.com/drive/folders/18WBs2MEWpcQ03kz5mbMT0birPRB6tQAN?usp=sharing
