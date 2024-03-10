@@ -1,5 +1,7 @@
 # TRINIT-TV-ML
 
+Video link : https://drive.google.com/file/d/138PcbtFSbUnS30aa1A-9OMWn2A30umAU/view?usp=sharing
+
 1. streamlit run app.py
 
 2. Upload any image in the interface
