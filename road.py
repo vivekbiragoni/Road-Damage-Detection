@@ -93,7 +93,7 @@ def predict(fid):
             # Save the predicted image
             cv2.imwrite(f"./predicted_{local_image_path.split('/')[-1]}.jpg", orig_image)
             res_img="./predicted_"+local_image_path.split('/')[-1]+".jpg"
-            st.image(res_img,width=400)
+            st.image(res_img)
 
 
 
